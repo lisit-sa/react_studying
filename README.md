@@ -1,5 +1,2 @@
 # react_studying
-r
-р
-а
-и
+Some homeworks that I made during the course Javascript
